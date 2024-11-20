@@ -1,16 +1,26 @@
-## Hi there 👋
+# 🙋🏻‍♂️ Introducing Myself
+Hello, I'm Supreet. Data Analyst with expertise in data analysis, reporting, query optimization, database design, and data modeling.
 
-<!--
-**SupreetGha/SupreetGha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Querying data using SQL.**
+- **Analysing Data using Python.**
+- **Generating reports and performing ad-hoc data analysis using SQL.**
+- **Data analysis and reporting using and Excel.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Projects
+Welcome to my portfolio, where I showcase my [projects](https://github.com/SupreetGha/projects).
+
+---
+
+## 🛠️ Tools
+- **Language:** SQL, Python, VBA  
+- **Tools:** PostgreSQL, Jupyter Notebook, Excel  
+- **Visualization:** Python, Power BI  
+
+---
+
+## 👋🏻 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/supreet-gh/)  
+
+
